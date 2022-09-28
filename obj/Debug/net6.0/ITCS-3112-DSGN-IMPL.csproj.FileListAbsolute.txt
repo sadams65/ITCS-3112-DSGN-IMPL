@@ -1,0 +1,15 @@
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\bin\Debug\net6.0\ITCS-3112-DSGN-IMPL.exe
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\bin\Debug\net6.0\ITCS-3112-DSGN-IMPL.deps.json
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\bin\Debug\net6.0\ITCS-3112-DSGN-IMPL.runtimeconfig.json
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\bin\Debug\net6.0\ITCS-3112-DSGN-IMPL.dll
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\bin\Debug\net6.0\ITCS-3112-DSGN-IMPL.pdb
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\obj\Debug\net6.0\ITCS-3112-DSGN-IMPL.csproj.AssemblyReference.cache
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\obj\Debug\net6.0\ITCS-3112-DSGN-IMPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\obj\Debug\net6.0\ITCS-3112-DSGN-IMPL.AssemblyInfoInputs.cache
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\obj\Debug\net6.0\ITCS-3112-DSGN-IMPL.AssemblyInfo.cs
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\obj\Debug\net6.0\ITCS-3112-DSGN-IMPL.csproj.CoreCompileInputs.cache
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\obj\Debug\net6.0\ITCS-3112-DSGN-IMPL.dll
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\obj\Debug\net6.0\refint\ITCS-3112-DSGN-IMPL.dll
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\obj\Debug\net6.0\ITCS-3112-DSGN-IMPL.pdb
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\obj\Debug\net6.0\ITCS-3112-DSGN-IMPL.genruntimeconfig.cache
+C:\Users\seth\Desktop\ITCS-3112-DSGN-IMPL\obj\Debug\net6.0\ref\ITCS-3112-DSGN-IMPL.dll
