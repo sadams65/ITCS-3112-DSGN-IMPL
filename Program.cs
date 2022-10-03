@@ -1,2 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+namespace Players
+{   
+    class playerInfo
+    {
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("yo");
+        }
+    }
+}
